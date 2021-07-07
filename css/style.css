@@ -15,6 +15,9 @@ p{
     line-height: 1.5em;
     margin-bottom: 70px;
 }
+.sec-pera{
+    padding-right: 100px;
+}
 .org-col{
     color: #544BE7;
 }
@@ -29,6 +32,7 @@ p{
     width: 50%;
     margin-left: 100px;
     margin-top: 100px;
+    margin-bottom: 100px;
 }
 .half-width img{
     width: 85%;
@@ -45,4 +49,8 @@ p{
     background-image: url(../images/mid-sec-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+}
+.items-header{
+    text-align: center;
+    width: 0% auto;
 }
