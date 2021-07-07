@@ -9,6 +9,10 @@ h2{
     color: #707070;
     font-size: 35px;
 }
+h3{
+    color: #0B0D17;
+    font-size: 30px;
+}
 p{
     color: #707070;
     font-size: 18px;
@@ -23,7 +27,7 @@ p{
 }
 .flexible-container{
     display: flex;
-    margin-bottom: 150px;
+    margin-bottom: 80px;
 }
 .first-sec{
     color: #575757;
@@ -32,7 +36,6 @@ p{
     width: 50%;
     margin-left: 100px;
     margin-top: 100px;
-    margin-bottom: 100px;
 }
 .half-width img{
     width: 85%;
@@ -52,5 +55,34 @@ p{
 }
 .items-header{
     text-align: center;
-    width: 0% auto;
+    margin: 0% auto;
+    width: 60%;
+}
+.foods{
+    width: 20%;
+    margin-left: 8%;
+    box-shadow: 10px 10px 50px gray;
+    padding: 20px 20px 0px 20px;
+    border-radius: 30px;
+}
+.foods img{
+    width: 100%;
+}
+.statistic{
+    width: 84%;
+    height: 200px;
+    border-radius: 10px;
+    margin: 100px auto;
+    box-shadow: 1px 1px 40px #d8d8d8;
+}
+.stat{
+    text-align: left;
+    margin: 0% auto;
+}
+.stat h1{
+    margin-top: 50px;
+    margin-bottom: 5px;
+}
+.stat p{
+    margin: 0;
 }
